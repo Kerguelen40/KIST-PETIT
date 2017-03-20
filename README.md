@@ -1,2 +1,2 @@
 # KIST-PETIT
-UPPA PROJET
+Code du Projet de POO
